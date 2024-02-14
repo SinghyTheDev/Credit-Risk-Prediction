@@ -24,7 +24,7 @@ A second Decision Tree model achieves a testing accuracy of 69.3%.
 Tuning the depth of the best-performing Decision Tree indicates that a depth of 2 or 3 is optimal.
 
 ## Model Comparison and Recommendation
-Model comparison based on accuracy metrics and k-fold cross-validation suggests that the first Decision Tree model is preferable, with an overall accuracy of 70.7%. The recommendation for the bank manager is to use the Decision Tree model due to its interpretability and relatively high accuracy.
+Model comparison based on accuracy metrics and k-fold cross-validation suggests that the first Decision Tree model is preferable, with an overall accuracy of 73.7%. The recommendation for the bank manager is to use the Decision Tree model due to its interpretability and relatively high accuracy.
 
 
 ## Conclusion
