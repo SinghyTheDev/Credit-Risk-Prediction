@@ -1,7 +1,7 @@
 # Credit Risk Prediction Jupyter Notebook
 
 ## Description
-Credit scoring is crucial for financial institutions to assess the creditworthiness of individuals or businesses. This Jupyter notebook provides a credit risk prediction model using a dataset containing records of 1000 bank customers. The goal is to assist a bank manager in predicting the credit risk of potential customers, facilitating more informed decisions when considering loan applications.
+Credit scoring is crucial for financial institutions to assess the creditworthiness of individuals or businesses. This Jupyter notebook implements credit risk prediction models trained using a dataset containing records of 1000 bank customers. The goal is to assist a bank manager in predicting the credit risk of potential customers, facilitating more informed decisions when considering loan applications.
 
 ## Data Analysis and Preparation
 The notebook begins with exploratory data analysis to understand the distribution of credit risk among customers. It utilizes various visualizations and statistical summaries to gain insights into the dataset.
