@@ -25,4 +25,4 @@ Model comparison based on k-fold cross-validation show the recommended model is 
 
 
 ## Conclusion
-Out of all the models, the Decision Tree 1 model is recommended based on the k-fold cross-validation evaluation metric. The dataset had lots of missing values, so with a more complete dataset the models likely yield more optimal accuracies.
+Out of all the models, the Decision Tree 1 model is recommended based on the k-fold cross-validation evaluation metric. The dataset had lots of missing values, so with a more complete dataset all the models will likely yield more optimal accuracies.
