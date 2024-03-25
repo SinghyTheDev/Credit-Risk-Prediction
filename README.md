@@ -11,7 +11,7 @@ Missing values are handled by imputing the mean for certain columns. Categorical
 ## Artificial Neural Network Model 1
 This models accuracy is 65%.
 
-## Artificial Neural Network (ANN) Model 2
+## Artificial Neural Network Model 2
 This models accuracy is 68%.
 
 ## Decision Tree Model 1
