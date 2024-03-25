@@ -1,7 +1,7 @@
 # Credit Risk Prediction
 
 ## Description
-Credit scoring is crucial for financial institutions to assess the creditworthiness of individuals or businesses. The goal of this code is to assist financial institutions, such as a bank, in predicting the credit risk of potential customers, enabling more informed decisions when considering loan applications. This code trains a variety of ML models using a dataset containing records of 1000 bank customers. The models hyperparameters are tuned to find the most optimal hyperparameters.
+Credit scoring is crucial for financial institutions to assess the creditworthiness of individuals or businesses. The goal of this code is to assist financial institutions, such as a bank, in predicting the credit risk of potential customers, enabling more informed decisions when considering loan applications. This code trains a variety of ML models using a dataset containing records of 1000 bank customers. There are a fair amount of missing values in the dataset however efforts have been made to fill these missing values using appropriate methods. The models hyperparameters are tuned to find the most optimal hyperparameters.
 
 ## Data Analysis and Preparation
 The code begins with data analysis using various visualizations and statistical summaries to gain insights into the dataset.
