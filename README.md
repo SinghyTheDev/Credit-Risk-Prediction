@@ -8,17 +8,17 @@ The code begins with data analysis using various visualizations and statistical 
 
 Missing values are handled by imputing the mean for certain columns. Categorical data such as 'SavingAccounts', 'Housing', and 'Sex' are converted to numerical values to enable compatibility with ML models.
 
-## Artificial Neural Network Model 1
-This models accuracy is 65%.
-
-## Artificial Neural Network Model 2
-This models accuracy is 68%.
-
 ## Decision Tree Model 1
 This models accuracy is 70.1%.
 
 ## Decision Tree Model 2
 This models accuracy is 70%.
+
+## Artificial Neural Network Model 1
+This models accuracy is 65%.
+
+## Artificial Neural Network Model 2
+This models accuracy is 68%.
 
 ## Model Comparison and Recommendation
 Model comparison based on k-fold cross-validation show the recommended model is Decision Tree 1.
